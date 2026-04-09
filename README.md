@@ -66,7 +66,7 @@ ML project to classify plant diseases from images and help farmers detect issues
 # 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,seaborn,sql,powerbi,git,github"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,seo,nodejs,express,react,python,pandas,numpy,matplotlib,seaborn,sql,powerbi,git,github"/>
 </p>
 
 ---
