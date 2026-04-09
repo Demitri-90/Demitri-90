@@ -94,12 +94,6 @@ ML project to classify plant diseases from images and help farmers detect issues
 
 ---
 
-# 🐍 Contribution Snake
-
-<img src="https://github.com/Demitri-90/Demitri-90/blob/output/github-contribution-grid-snake.svg"/>
-
----
-
 # 👀 Profile Visitors
 
 <p align="center">
@@ -111,16 +105,16 @@ ML project to classify plant diseases from images and help farmers detect issues
 # 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/<your-linkedin>">
+<a href="https://www.linkedin.com/in/tanishq-yogi">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
-<a href="https://www.instagram.com/<your-instagram>">
+<a href="https://www.instagram.com/tanishq_yogi45?igsh=MTFiM3piOHhyMjNmbg==">
 <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram"/>
 </a>
-<a href="https://twitter.com/<your-x-handle>">
+<a href="https://x.com/GyanRefined">
 <img src="https://img.shields.io/badge/X-twitter-blue?style=for-the-badge&logo=twitter"/>
 </a>
-<a href="mailto:<your-email>">
+<a href="mailto:tanishqyogi33@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 <a href="https://github.com/Demitri-90">
