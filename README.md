@@ -69,17 +69,10 @@ ML project to classify plant diseases from images and help farmers detect issues
 <img src="https://skillicons.dev/icons?i=html" height="40" />&nbsp;
 <img src="https://skillicons.dev/icons?i=css" height="40" />&nbsp;
 <img src="https://skillicons.dev/icons?i=js" height="40" />&nbsp;
-<img src="https://skillicons.dev/icons?i=seo" height="40" />&nbsp;
 <img src="https://skillicons.dev/icons?i=nodejs" height="40" />&nbsp;
 <img src="https://skillicons.dev/icons?i=express" height="40" />&nbsp;
 <img src="https://skillicons.dev/icons?i=react" height="40" />&nbsp;
 <img src="https://skillicons.dev/icons?i=python" height="40" />&nbsp;
-<img src="https://skillicons.dev/icons?i=pandas" height="40" />&nbsp;
-<img src="https://skillicons.dev/icons?i=numpy" height="40" />&nbsp;
-<img src="https://skillicons.dev/icons?i=matplotlib" height="40" />&nbsp;
-<img src="https://skillicons.dev/icons?i=seaborn" height="40" />&nbsp;
-<img src="https://skillicons.dev/icons?i=sql" height="40" />&nbsp;
-<img src="https://skillicons.dev/icons?i=powerbi" height="40" />&nbsp;
 <img src="https://skillicons.dev/icons?i=git" height="40" />&nbsp;
 <img src="https://skillicons.dev/icons?i=github" height="40" />
 </p>
