@@ -74,28 +74,28 @@ ML project to classify plant diseases from images and help farmers detect issues
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=<your-username>&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Demitri-90&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Demitri-90&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 # 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=<your-username>&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Demitri-90&theme=tokyo-night"/>
 
 ---
 
 # 🐍 Contribution Snake
 
-<img src="https://github.com/<your-username>/<your-username>/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://github.com/Demitri-90/Demitri-90/blob/output/github-contribution-grid-snake.svg"/>
 
 ---
 
 # 👀 Profile Visitors
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=<your-username>&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Demitri-90&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
@@ -115,7 +115,7 @@ ML project to classify plant diseases from images and help farmers detect issues
 <a href="mailto:<your-email>">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
-<a href="https://github.com/<your-username>">
+<a href="https://github.com/Demitri-90">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 </p>
