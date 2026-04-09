@@ -5,10 +5,10 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Tanishq Yogi</h1>
-<h3 align="center">Data Analyst • Python Developer • Project Creator</h3>
+<h3 align="center">Data Analyst | Python Developer | ML & AI Explorer | Problem Solver</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=650&lines=Data+Analyst;Python+Developer;Project+Creator;ML+Explorer"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=650&lines=Data+Analyst;Python+Developer;ML+Explorer;Problem+Solver"/>
 </p>
 
 ---
@@ -20,8 +20,8 @@
 - 🎓 Intern / Data Enthusiast from **India**  
 - 💻 Skilled in **Python, Data Analysis, Visualization, Power BI**  
 - 🤖 Exploring **ML & AI-powered tools**  
-- 🌍 Creator of **LinkedIn Jobs EDA, Bookstore App, Plant Disease Detection**  
-- ⚡ Turning **ideas into real functional projects**
+- 🌍 Created **LinkedIn Jobs EDA, Bookstore App, Plant Disease Detection**  
+- ⚡ Turning **ideas into functional, real-world projects**  
 
 ---
 
@@ -37,8 +37,6 @@ Analyzed Canadian LinkedIn job postings to uncover trends in job sectors, locati
 
 **Tech Stack:** Python 🐍, Pandas 🐼, Matplotlib 📈  
 
----
-
 ## 🤖 Bookstore Web Application
 Full-stack app allowing users to search, register, and manage books.
 
@@ -48,8 +46,6 @@ Full-stack app allowing users to search, register, and manage books.
 - Responsive interface 🖥️📱  
 
 **Tech Stack:** Node.js ⚡, Express 🌐, MongoDB 🍃, EJS 📄  
-
----
 
 ## 🌱 Plant Disease Detection
 ML project to classify plant diseases from images and help farmers detect issues early.
@@ -66,19 +62,37 @@ ML project to classify plant diseases from images and help farmers detect issues
 # 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html" height="40" />&nbsp;
-<img src="https://skillicons.dev/icons?i=css" height="40" />&nbsp;
-<img src="https://skillicons.dev/icons?i=js" height="40" />&nbsp;
-<img src="https://skillicons.dev/icons?i=nodejs" height="40" />&nbsp;
-<img src="https://skillicons.dev/icons?i=express" height="40" />&nbsp;
-<img src="https://skillicons.dev/icons?i=react" height="40" />&nbsp;
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=html,css,js,react" height="40" />&nbsp;
+<!-- Backend -->
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="40" />&nbsp;
+<!-- Data & ML -->
 <img src="https://skillicons.dev/icons?i=python" height="40" />&nbsp;
-<img src="https://skillicons.dev/icons?i=git" height="40" />&nbsp;
-<img src="https://skillicons.dev/icons?i=github" height="40" />
+<!-- Tools -->
+<img src="https://skillicons.dev/icons?i=git,github" height="40" />
 </p>
 
 ---
 
+# 🖥️ Coding Profiles
+
+<p align="center">
+<a href="https://www.leetcode.com/Demitri-90">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/>
+</a>
+<a href="https://www.hackerrank.com/Demitri_90">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+</a>
+<a href="https://www.codechef.com/users/demitri_90">
+<img src="https://img.shields.io/badge/CodeChef-F37626?style=for-the-badge&logo=CodeChef&logoColor=white"/>
+</a>
+<a href="https://www.kaggle.com/Demitri-90">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
+</a>
+<a href="https://www.geeksforgeeks.org/user/demitri-90/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=GeeksforGeeks&logoColor=white"/>
+</a>
+</p>
 # 📊 GitHub Stats
 
 <p align="center">
@@ -108,7 +122,7 @@ ML project to classify plant diseases from images and help farmers detect issues
 <a href="https://www.linkedin.com/in/tanishq-yogi">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
-<a href="https://www.instagram.com/tanishq_yogi45?igsh=MTFiM3piOHhyMjNmbg==">
+<a href="https://www.instagram.com/tanishq_yogi45">
 <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram"/>
 </a>
 <a href="https://x.com/GyanRefined">
@@ -124,4 +138,4 @@ ML project to classify plant diseases from images and help farmers detect issues
 
 ---
 
-⭐ **Building technology that makes data, analysis, and automation smarter.**
+⭐ **Passionate about turning raw data into actionable insights & building smart automation tools.**
