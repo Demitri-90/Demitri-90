@@ -1,23 +1,34 @@
-# Hi 👋, I'm Tanishq Yogi  
-Data Analyst • Python Developer • Project Creator
+<!-- ================= Banner ================= -->
+
+<p align="center">
+  <img src="./Tanishq Yogi.png" alt="Tanishq Yogi"/>
+</p>
+
+<h1 align="center">Hi 👋, I'm Tanishq Yogi</h1>
+<h3 align="center">Data Analyst • Python Developer • Project Creator</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=650&lines=Data+Analyst;Python+Developer;Project+Creator;ML+Explorer"/>
+</p>
 
 ---
 
-## 🚀 About Me
-💡 I love building technology and projects that solve real-world problems.  
+# 🚀 About Me
 
-🎓 Intern / Data Enthusiast from India  
-💻 Skilled in Python, Data Analysis, Visualization, and Power BI  
-🤖 Exploring ML & AI-based tools  
-🌍 Creator of LinkedIn Jobs EDA, Bookstore App, Plant Disease Detection  
-⚡ Turning ideas into real, functional projects  
+💡 I love building technology and projects that solve **real-world problems**.
+
+- 🎓 Intern / Data Enthusiast from **India**  
+- 💻 Skilled in **Python, Data Analysis, Visualization, Power BI**  
+- 🤖 Exploring **ML & AI-powered tools**  
+- 🌍 Creator of **LinkedIn Jobs EDA, Bookstore App, Plant Disease Detection**  
+- ⚡ Turning **ideas into real functional projects**
 
 ---
 
-## 🧠 Featured Projects
+# 🧠 Featured Projects
 
-### 🌍 LinkedIn Jobs EDA
-Analyzed Canadian LinkedIn job postings to uncover trends in job sectors, locations, and contract types.  
+## 🌍 LinkedIn Jobs EDA
+Analyzed Canadian LinkedIn job postings to uncover trends in job sectors, locations, and contract types.
 
 **Features:**  
 - Data cleaning & preprocessing 🧹  
@@ -28,8 +39,8 @@ Analyzed Canadian LinkedIn job postings to uncover trends in job sectors, locati
 
 ---
 
-### 🤖 Bookstore Web Application
-Full-stack app allowing users to search, register, and manage books.  
+## 🤖 Bookstore Web Application
+Full-stack app allowing users to search, register, and manage books.
 
 **Features:**  
 - User authentication 🔑  
@@ -40,8 +51,8 @@ Full-stack app allowing users to search, register, and manage books.
 
 ---
 
-### 🌱 Plant Disease Detection
-ML project to classify plant diseases from images and help farmers detect issues early.  
+## 🌱 Plant Disease Detection
+ML project to classify plant diseases from images and help farmers detect issues early.
 
 **Features:**  
 - Dataset preprocessing & feature extraction 🛠️  
@@ -52,24 +63,63 @@ ML project to classify plant diseases from images and help farmers detect issues
 
 ---
 
-## 🛠 Tech Stack
-- **Languages:** Python 🐍, SQL  
-- **Libraries:** Pandas 🐼, NumPy 🔢, Matplotlib 📊, Seaborn 📈  
-- **Tools:** Power BI 📉, Git & GitHub 🔗  
-- **Concepts:** Data Cleaning 🧹, EDA 🔎, Visualization 📊, Basic ML 🤖  
+# 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,seaborn,sql,powerbi,git,github"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![Tanishq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=radical)  
+# 📊 GitHub Stats
 
-![Tanishq's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=radical)  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=<your-username>&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 🌐 Connect With Me
-- GitHub: [https://github.com/<your-username>](https://github.com/<your-username>) 🔗  
-- LinkedIn: [https://www.linkedin.com/in/<your-linkedin>](https://www.linkedin.com/in/<your-linkedin>) 🔗  
-- Instagram: [https://www.instagram.com/<your-instagram>](https://www.instagram.com/<your-instagram>) 📸  
-- X (Twitter): [https://twitter.com/<your-x-handle>](https://twitter.com/<your-x-handle>) 🐦  
-- Email: `<your-email>` 📧
+# 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=<your-username>&theme=tokyo-night"/>
+
+---
+
+# 🐍 Contribution Snake
+
+<img src="https://github.com/<your-username>/<your-username>/blob/output/github-contribution-grid-snake.svg"/>
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=<your-username>&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/<your-linkedin>">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="https://www.instagram.com/<your-instagram>">
+<img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram"/>
+</a>
+<a href="https://twitter.com/<your-x-handle>">
+<img src="https://img.shields.io/badge/X-twitter-blue?style=for-the-badge&logo=twitter"/>
+</a>
+<a href="mailto:<your-email>">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+<a href="https://github.com/<your-username>">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+⭐ **Building technology that makes data, analysis, and automation smarter.**
